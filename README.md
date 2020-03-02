@@ -1,5 +1,7 @@
 # TriviaApp
 
+## A simple Trivia App I built with a team at Grand Circus using Angular.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
 
 ## Development server
