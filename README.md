@@ -1,6 +1,6 @@
 # TriviaApp
 
-## A simple Trivia App I built with a team at Grand Circus using Angular.
+## A simple Trivia App built by Chase Baker(me), Bryce Byker, Spencer Deerling, Matt Maeda, and Josh Hall at Grand Circus using Angular.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
 
