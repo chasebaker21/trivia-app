@@ -1,8 +1,0 @@
-
-<button 
-    *ngFor="let answer of answerSet"
-    (click)='answerSelected(answer.isCorrect)'
-    [style.border]="isAnswered ? (answer.isCorrect ? '5px solid greenyellow' : 'default') : 'default'"
-    >
-    <span>{{answer.option}} </span> {{answer.answer}}
-</button>
